@@ -1,0 +1,40 @@
+[Sat Jun 01 2019 21:55:31 GMT+0100 (British Summer Time)] INFO Rate Limit set to 5 messages per second.
+[Sat Jun 01 2019 21:55:33 GMT+0100 (British Summer Time)] INFO Configured Watson Middleware
+[Sat Jun 01 2019 21:55:33 GMT+0100 (British Summer Time)] INFO broadcast skill
+[Sat Jun 01 2019 21:56:23 GMT+0100 (British Summer Time)] INFO Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4: /notify/email/change
+[Sat Jun 01 2019 21:56:24 GMT+0100 (British Summer Time)] INFO User List before Cleanup: 
+mail@inperta.com,vamsys@gmail.com,jagan@thotli.com,u002jrt@carlsonwagonlit.com
+[Sat Jun 01 2019 21:56:24 GMT+0100 (British Summer Time)] INFO User List after Cleanup: 
+mail@inperta.com,vamsys@gmail.com,jagan@thotli.com,u002jrt@carlsonwagonlit.com
+[Sat Jun 01 2019 21:56:26 GMT+0100 (British Summer Time)] INFO 1559422584552: jobComplete - Published
+[Sat Jun 01 2019 21:58:16 GMT+0100 (British Summer Time)] INFO Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4: /subscribe
+[Sat Jun 01 2019 21:58:16 GMT+0100 (British Summer Time)] INFO Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4: /subscribe: Message from publisher space
+[Sat Jun 01 2019 21:58:17 GMT+0100 (British Summer Time)] INFO Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4: /subscribe: Message from moderator
+[Sat Jun 01 2019 21:58:17 GMT+0100 (British Summer Time)] INFO SparkBroadcast: subscribe
+[Sat Jun 01 2019 21:58:17 GMT+0100 (British Summer Time)] INFO User List before Cleanup: 
+vamsys@gmail.com
+[Sat Jun 01 2019 21:58:17 GMT+0100 (British Summer Time)] INFO User List after Cleanup: 
+vamsys@gmail.com
+[Sat Jun 01 2019 21:58:17 GMT+0100 (British Summer Time)] INFO subscriptionStatus: vamsys@gmail.com
+[Sat Jun 01 2019 21:58:17 GMT+0100 (British Summer Time)] INFO subscriptionStatus: {"status":-1}
+[Sat Jun 01 2019 21:58:18 GMT+0100 (British Summer Time)] INFO 1559422697050: Subscribe vamsys@gmail.com to DB, Publisher = Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4
+[Sat Jun 01 2019 21:58:18 GMT+0100 (British Summer Time)] INFO 1559422697050: jobComplete - Subscribed
+[Sat Jun 01 2019 21:58:18 GMT+0100 (British Summer Time)] INFO 1559422697050: Completed: Subscribed 1 messages in 1.886s
+[Sat Jun 01 2019 21:58:18 GMT+0100 (British Summer Time)] INFO { id:
+   'Y2lzY29zcGFyazovL3VzL1JPT00vN2NiYjkyNWUtYmYxMy0zM2E1LTg1ZmMtNDAwOTA4MjE5ZjBj',
+  publisher_space_ids:
+   [ 'Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4' ],
+  emails: [ 'vamsys@gmail.com' ] }
+[Sat Jun 01 2019 21:59:35 GMT+0100 (British Summer Time)] INFO Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4: /notify/email/change
+[Sat Jun 01 2019 21:59:37 GMT+0100 (British Summer Time)] INFO User List before Cleanup: 
+mail@inperta.com,vamsys@gmail.com,jagan@thotli.com,u002jrt@carlsonwagonlit.com
+[Sat Jun 01 2019 21:59:37 GMT+0100 (British Summer Time)] INFO User List after Cleanup: 
+mail@inperta.com,vamsys@gmail.com,jagan@thotli.com,u002jrt@carlsonwagonlit.com
+[Sat Jun 01 2019 21:59:39 GMT+0100 (British Summer Time)] INFO 1559422777495: jobComplete - Published
+[Sat Jun 01 2019 22:04:44 GMT+0100 (British Summer Time)] INFO Y2lzY29zcGFyazovL3VzL1JPT00vZTQ0ZDc4ZTAtN2ZjOC0xMWU5LTg0MTEtYzVjOWIyMWE1OTg4: /notify/email/change
+[Sat Jun 01 2019 22:04:45 GMT+0100 (British Summer Time)] INFO User List before Cleanup: 
+mail@inperta.com,vamsys@gmail.com,jagan@thotli.com,u002jrt@carlsonwagonlit.com
+[Sat Jun 01 2019 22:04:45 GMT+0100 (British Summer Time)] INFO User List after Cleanup: 
+mail@inperta.com,vamsys@gmail.com,jagan@thotli.com,u002jrt@carlsonwagonlit.com
+[Sat Jun 01 2019 22:04:47 GMT+0100 (British Summer Time)] INFO 1559423085517: jobComplete - Published
+[Sat Jun 01 2019 22:04:47 GMT+0100 (British Summer Time)] INFO 1559423085517: jobComplete - Published

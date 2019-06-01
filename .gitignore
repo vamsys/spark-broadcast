@@ -1,0 +1,6 @@
+db
+node_modules
+components/routes/_*
+glitch_readme.md
+public
+.idea/
